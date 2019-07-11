@@ -1,4 +1,8 @@
 img{
-    width:450px;
+    width:550px;
     height:400px;
+}
+.me{
+    width:700px;
+    float:right;
 }
