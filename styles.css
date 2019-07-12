@@ -87,7 +87,6 @@ h5{
     flex-direction: row;
     background-color:black;
     color:white;
-    
 }
 *{
     margin-left:0;
@@ -97,7 +96,4 @@ h5{
     display:flex;
     justify-content: space-between;
     padding-left:620px;
-}
-footer{
-    margin-bottom: 0;
 }
